@@ -48,25 +48,25 @@ export default function App() {
       <div>
 
 <p class="corpotexto">
-      <p> A empresa Brasil Service ltda me fundada em data de abertura
+      <p><center> A empresa Brasil Service ltda me fundada em data de abertura
 03/04/2019 e com as seguintes atividades cadastradas prestadas. Construção de 
 estações e redes de distribuição de energia elétrica. Construção de estações e 
 redes de telecomunicações. Outras obras de engenharia civil não especificadas anteriormente. Localizada com escritório sede na rua Laurinda pereira nascimento, graúna, Cariacica, ES. 
 sócio diretor principal Srº Romildo Effgen é responsável geral pela empresa.
-<hr/>
+</center><hr/><center>
 A confiança é a crença que temos no caráter, nos bons valores e na lealdade de alguém.
 Uma pessoa confiável é aquela que transmite honestidade e apresenta bom caráter, ajudando o outro a acreditar em suas boas atitudes e escolhas.
 Há também a autoconfiança, que é a capacidade de acreditar no próprio potencial.
-<hr/>
+</center><hr/><center>
 A Criatividade
 A criatividade é a característica de criar ou inovar algo, seja no lado profissional ou pessoal.
 Uma pessoa criativa costuma ser muito valorizada no ambiente de trabalho, devido à sua originalidade e capacidade de ter pontos de vista e ideias diferentes.
-<hr/>
+</center><hr/><center>
 Entretanto a Tolerância
 A tolerância é a capacidade de perdoar certos erros e aceitar opiniões ou comportamentos que difiram dos seus.
 Quem é tolerante aceita que as pessoas são diferentes umas das outras e respeita essas diferenças, seja de pensamentos, ideias, opiniões ou comportamentos.
 Além do mais, também tem consciência de que os acontecimentos não estão sob seu controle, por isso consegue administrar as expectativas ao longo da vida.
-</p>
+</center></p>
 </p>
 <br></br>
       </div>
@@ -85,17 +85,15 @@ Além do mais, também tem consciência de que os acontecimentos não estão sob
            
         <h1><li>Brasil
            Service
-          ltda ME(R)</li></h1>
+           </li></h1>
 
-      <a><br></br>  oi Leitura dskjdsdjsljdskjskfjkfjsfjsjfslfjgfgfgfgfgfgfgfgfgfgfgfgfg123
-           fmskmskfsmfsmfsmf.s,mf,sfms,.fms,.fms,.fms,
-           fms,fms,fmsfmskmskfsmfsmfsmfjfdkfjdkjdlkjfk
-           dvvvvvvfvffffgfgfgfgfgfgfgfggfgfgfgfdfdfjdkjhjhjhhjhjhjhkhhjhkjhjkhkhhjhkjhhhk
-      </a>
+      <a> <center> Empresa no ramo de energia elétrica e telecomunicações tem reconhecimento no mercado de telecomunicações pelos contratos e prestações de serviços
+       como as empresas fornecedoras de serviços de telecomunicações em nível nacional exemplificando as empresas Tim, Oi, Vivo e Claro que são pioneiras em oferecer serviços neste ramo.
+       </center></a>
       
       <img src="https://github.com/MTVerso/brservapp/blob/main/src/img/logo.png?raw=true" width='100px' height='76px'/>
       <div class='direitos'/>
-      <p><p><br></br><br></br>MIT License
+      <p><p><br></br>MIT License
 Copyright (c) 2022 
 direitos autorais reservados a Brasil Service</p></p>
       </div>
