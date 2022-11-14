@@ -14,12 +14,27 @@ export default function App() {
         </nav>
       </header>
       <h1>sec felx box</h1>  
-      <section>
-<div>
- 
-
-</div>
-
+      <section class='flex'>
+        <div>
+           <img src='src/img/imaget.jpg' alt='imagem'/>
+           <p>imagem 1</p>
+        </div> 
+        <div>
+           <img src='e' alt='imagem'/>
+           <p>imagem 2</p>
+        </div>      <div>
+           <img src='e' alt='imagem'/>
+           <p>imagem 3</p>
+        </div>      <div>
+           <img src='e' alt='imagem'/>
+           <p>imagem 4</p>
+        </div>      <div>
+           <img src='e' alt='imagem'/>
+           <p>imagem 5</p>
+        </div>      <div>
+           <img src='e' alt='imagem'/>
+           <p>imagem 6</p>
+        </div> 
       </section>
      </div>
   );

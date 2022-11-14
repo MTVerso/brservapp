@@ -28,6 +28,10 @@ background: rgb(17, 17, 17);
          align-items: center;
            padding: 20px;  
 }
+img {
+  max-height: 100%;
+  display: block;
+}
 .menu {
 display: flex;
 }
@@ -36,5 +40,12 @@ margin-left: 10px;
 }
 .menu li a {
   display: block;
-  pandding:10px;
+  padding:10px;
+  background:rgb(45, 143, 182);
   }
+
+  /*css flex box edit*/
+.flex{
+display: inline-flex;
+
+}
