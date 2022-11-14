@@ -16,7 +16,7 @@ export default function App() {
       <h1>sec felx box</h1>  
       <section class='flex'>
         <div>
-           <img src='src/img/imaget.jpg' alt='imagem'/>
+           <img src="https://github.com/MTVerso/brservapp/blob/main/src/img/Imaget.jpg" alt='imagem'/>
            <p>imagem 1</p>
         </div> 
         <div>
