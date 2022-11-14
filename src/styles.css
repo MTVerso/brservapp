@@ -63,6 +63,13 @@ margin-left: 10px;
   background:rgb(45, 143, 182);
   }
 
+   ab a{
+    color:brown;
+    font-size: 1.5rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+/*link da receita em baixo do texto*/
+   }
+
   /*css flex box edit*/
 .flex{
 display: flex;
