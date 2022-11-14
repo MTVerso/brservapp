@@ -4,7 +4,7 @@ export default function App() {
   return (
     <div>
       <header class="header">
-        <img src="https://github.com/MTVerso/brservapp/blob/main/src/img/logo.png?raw=true" width='90px' height='65px'/>
+        <img src="https://github.com/MTVerso/brservapp/blob/main/src/img/logo.png?raw=true" width='100px' height='76px'/>
         <br/>
         <h1><a><a href="/">Brasil Service</a></a></h1>
         <nav>
