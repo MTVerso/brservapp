@@ -16,10 +16,10 @@ font-size:4rem;
 line-height:normal;
 box-shadow: 3px 3px rgb(230, 226, 17), -1em 0 .4em rgb(67, 165, 10);
 }
-h1 a {
+.h1 a {
   color:black;
   font-style: italic;
-  font-family:a;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   word-spacing: 1px;
   letter-spacing: 10px;
 
@@ -74,4 +74,19 @@ margin-left: 10px;
 .flex{
 display: flex;
 
+}
+/*grid*/
+.grid{
+  display:flex;
+  background-color: rgb(252, 200, 141);
+color:rgb(3, 31, 22);
+align-items: right;
+}
+a {
+color: rgba(15, 59, 6, 0.89);
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h1 li{
+color:red
+/*dentro do grid abaixo primeira palavra*/
 }
