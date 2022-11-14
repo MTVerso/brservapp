@@ -4,18 +4,23 @@ export default function App() {
   return (
     <div>
       <header class="header">
-        <img src="https://github.com/MTVerso/brservapp/blob/main/src/img/logo.png?raw=true" width='100px' height='76px'/>
+        <img src="https://github.com/MTVerso/brservapp/blob/main/src/img/logo.png?raw=true" width='130px' height='100px'/>
         <br/>
         <h1><a><a href="/">Brasil Service</a></a></h1>
         <nav>
+          <br></br><br></br>
           <ul class="menu">
+            <br></br>
             <li> <a href="/">Curiosidades e Dicas</a> </li>
             <li> <a href="/">Contatos</a> </li>
           </ul>
         </nav>
       </header>
-      <h1>Brasil Service Ltda ME</h1>  
+      <div class='brasil'>
+      Brasil Service Ltda ME
+      </div>  
       <section class='flex'>
+        
         <div>
            <img src='https://github.com/MTVerso/brservapp/blob/main/src/img2internal/ft1.JPG?raw=true' width='200px' height='300px' alt='imagem'/>
            <p></p>
@@ -36,7 +41,7 @@ export default function App() {
            <img src='https://github.com/MTVerso/brservapp/blob/main/src/img2internal/ft5.JPG?raw=true' width='200px' height='300px' alt='imagem'/>
            <p></p>
            </div>      <div>
-           <img src='https://github.com/MTVerso/brservapp/blob/main/src/img2internal/ft7.JPG?raw=true' width='200px' height='300px' alt='imagem'/>
+           <img src='https://github.com/MTVerso/brservapp/blob/main/src/img2internal/ft7.JPG?raw=true' width='147px' height='300px' alt='imagem'/>
            <p></p>
         </div> 
       </section>
@@ -80,13 +85,14 @@ Além do mais, também tem consciência de que os acontecimentos não estão sob
       <a><br></br>  oi Leitura dskjdsdjsljdskjskfjkfjsfjsjfslfjgfgfgfgfgfgfgfgfgfgfgfgfg123
            fmskmskfsmfsmfsmf.s,mf,sfms,.fms,.fms,.fms,
            fms,fms,fmsfmskmskfsmfsmfsmfjfdkfjdkjdlkjfk
-           dvvvvvvfvffffgfgfgfgfgfgfgfggfgfgfgfdfdfjdk
+           dvvvvvvfvffffgfgfgfgfgfgfgfggfgfgfgfdfdfjdkjhjhjhhjhjhjhkhhjhkjhjkhkhhjhkjhhhk
       </a>
       
       <img src="https://github.com/MTVerso/brservapp/blob/main/src/img/logo.png?raw=true" width='100px' height='76px'/>
-      <p>sfsfsffs</p>
-      <p>sfsfsffs</p>
-      <p>sfsfsffs</p>
+      <div class='direitos'/>
+      <p><p><br></br><br></br>MIT License
+Copyright (c) 2022 
+direitos autorais reservados a Brasil Service</p></p>
       </div>
       </section>
     </div>  
