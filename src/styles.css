@@ -1,0 +1,40 @@
+body, 
+ul,
+li,
+p {
+margin: 0px ;
+  padding: 0 ;
+   list-style: none;
+    font-size: 2rem;
+      font-family: Arial, Helvetica, sans-serif;
+    
+}
+a {
+  color:aliceblue;
+  text-decoration-line: none;
+ 
+}
+h1 {
+text-align: center;
+margin-top: 100px;
+
+
+}
+.header {
+background: rgb(17, 17, 17);
+  display: flex;
+   flex-wrap: wrap;
+     justify-content: space-between;
+         align-items: center;
+           padding: 20px;  
+}
+.menu {
+display: flex;
+}
+.menu li {
+margin-left: 10px;
+}
+.menu li a {
+  display: block;
+  pandding:10px;
+  }
