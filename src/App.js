@@ -4,6 +4,7 @@ export default function App() {
   return (
     <div>
       <header class="header">
+        <img src="./img/logo.png"/>
         <a href="/">logo</a>
         <nav>
           <ul class="menu">
