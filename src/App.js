@@ -12,8 +12,8 @@ export default function App() {
           <br></br><br></br>
           <ul class="menu">
             <br></br>
-            <li> <a href="/">Curiosidades e Dicas</a> </li>
-            <li> <a href="/Brasilserviceme@outlook.com">Contatos</a> </li>
+            <li> <a href="http://www.g3.com.br/5-curiosidades-sobre-a-historia-das-telecomunicacoes-no-brasil/">Curiosidades e Dicas</a> </li>
+            <li> <a href='https://www.solutudo.com.br/empresas/es/cariacica/estacoes-e-redes-de-distribuicao-geracao-e-transmissao-de-energia-eletrica/brasil-service-7054054'>Contatos</a> </li>
           </ul>
         </nav>
       </header>
