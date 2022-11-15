@@ -1,7 +1,8 @@
 import "./styles.css";
-
+import Contatos from "./pages/Contatos";
 export default function App() {
   return (
+
     <div>
       <header class="header">
         <img src="https://github.com/MTVerso/brservapp/blob/main/src/img/logo.png?raw=true" width='130px' height='100px'/>
@@ -12,7 +13,7 @@ export default function App() {
           <ul class="menu">
             <br></br>
             <li> <a href="/">Curiosidades e Dicas</a> </li>
-            <li> <a href="/">Contatos</a> </li>
+            <li> <a href="/Brasilserviceme@outlook.com">Contatos</a> </li>
           </ul>
         </nav>
       </header>
